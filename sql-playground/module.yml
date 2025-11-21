@@ -19,7 +19,7 @@ challenges:
 
     This challenge will start with a very simple query.
     The query we'll learn is `SELECT`.
-    You can use `SELECT` to (😎) _select_ data from tables in your databse.
+    You can use `SELECT` to (😎) _select_ data from tables in your database.
     Its basic syntax is `SELECT what FROM where`, where `what` and `where` are things you specify.
     The `where`, typically, is a database table, and the `what` are the columns you want the query to fetch.
     If you don't want to worry about the column to `SELECT`, you can do `SELECT *`!
